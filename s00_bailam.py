@@ -5,7 +5,7 @@ tongtienmuahang(gia_truoc_thue)
 
 --- nopbai
 00 fork tu bainopmau tren replit tu trang web duoiday 
-   https://replit.com/@NamG1/toya03tongtienmuahang
+   https://github.com/duongvq-py/toyatongtienmuahang
 
 01 lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
 02a tao github repo, mo trinhduyetweb de kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl
