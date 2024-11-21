@@ -27,9 +27,11 @@ tongtienmuahang(1000000)                | 1100000
 tongtienmuahang(gia_truoc_thue=1000000) | 1100000
 tongtienmuahang(None)                   | None
 """
+
 #endregion debai
+
 
 #region bailam
 def tongtienmuahang(gia_truoc_thue):
-  return 'TODO'
+  return int(gia_truoc_thue + gia_truoc_thue * 0.1)
 #endregion bailam
